@@ -1,6 +1,5 @@
 exports.config = {
     framework: 'jasmine2',
-    chromeOnly: true,
     capabilities: {
             // You can use other browsers
             // like firefox, phantoms, safari, IE (-_-)

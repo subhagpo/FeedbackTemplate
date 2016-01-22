@@ -4,7 +4,7 @@
     <description>
         An Ionic Framework and Cordova project, including Jasmine and Karma unit tests with Protractor and Selenium UI tests.
     </description>
-    <author email="taco@microsoft." href="http://taco.tools/">
+    <author email="taco-admin@microsoft.com" href="http://taco.tools/">
       VS Mobile Team
     </author>
     <access origin="*" />
